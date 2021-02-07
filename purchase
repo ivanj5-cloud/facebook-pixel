@@ -1,0 +1,6 @@
+<script>
+  fbq('trackSingle', '669583420583445', 'Purchase', {
+    value: {{Purchase value}},
+    currency: 'COP',
+  });
+</script>
