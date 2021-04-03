@@ -1,4 +1,8 @@
 <script>
-  fbq('trackSingle', '669583420583445', 'ViewContent'
-  );
+  fbq('trackSingle', '669583420583445', 'ViewContent', {
+    value: 1,
+    currency: 'COP',
+    content_ids: '1',
+    content_type: '1',
+  });
 </script>
